@@ -1,0 +1,11 @@
+1-JSON validity check
+    https://codebeautify.org/jsonviewer
+
+2-For find JSON path
+    https://jsonpathfinder.com/
+
+3-JSON schema converter
+    https://www.liquid-technologies.com/online-json-to-schema-converter
+
+4-JSON schema validator
+    https://www.jsonschemavalidator.net/

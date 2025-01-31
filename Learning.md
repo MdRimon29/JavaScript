@@ -12,4 +12,9 @@
 - Operators- Arithmatic(+ - * / % ** ++ --),Assignment(= += -= *= /= **=),Comparison(> < >=  <= == === ),logical(&& || !),unary
 - Conditional control statement: if,else if, else, switch
 - Loop Control Statements
+- for,while,do-while
+- while vs do-while loop
+- break,continue
+- array,string,object
+- for of,for in
 

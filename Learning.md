@@ -17,4 +17,8 @@
 - break,continue
 - array,string,object
 - for of,for in
+- Function vs Method
+- Function (Traditional vs arrow)
+- ES6,ES7
 
+- var (let vs const)

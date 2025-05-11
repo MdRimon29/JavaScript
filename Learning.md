@@ -10,15 +10,17 @@
 - Datatype -> String,Number,Bigint,Boolean,Undefined,Null,Symbol,Object
 - Truthy/falsy values
 - Operators- Arithmatic(+ - * / % ** ++ --),Assignment(= += -= *= /= **=),Comparison(> < >=  <= == === ),logical(&& || !),unary
-- Conditional control statement: if,else if, else, switch
-- Loop Control Statements
-- for,while,do-while
-- while vs do-while loop
-- break,continue
+- Control Statement
+    - Conditional control statement: if,else if, else, switch
+    - Loop Control Statements
+        - for,while,do-while
+        - while vs do-while loop
+        - break,continue
 - array,string,object
-- for of,for in
+    - for of,for in
 - Function vs Method
-- Function (Traditional vs arrow)
+    - Function (Traditional vs arrow)
+    - Method-array,string submethod
 - ES6,ES7
 
 - var (let vs const)

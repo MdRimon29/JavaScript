@@ -32,7 +32,7 @@
 ### JS part-4
 - Function vs Method
     - Function (Traditional vs arrow)
-    - Method-array,string submethod
+    - Method - array,string submethod
 - ES6,ES7
 
 - var (let vs const)

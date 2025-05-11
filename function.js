@@ -54,3 +54,17 @@ mulNumbers2(30,20);
 
 divNumbers(30,20);
 divNumbers2(30,20);
+
+//methods
+
+const Calculator={
+    add: (num1,num2)=> num1+num2,
+    sub: (num1,num2)=> num1-num2,
+    mul: (num1,num2)=> num1*num2,
+    div: (num1,num2)=> num1/num2,
+};
+
+console.log(Calculator.add(30,20));
+console.log(Calculator.sub(30,20));
+console.log(Calculator.mul(30,20));
+console.log(Calculator.div(30,20));

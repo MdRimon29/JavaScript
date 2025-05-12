@@ -22,3 +22,5 @@ console.log(Math.ceil(2.5));
 
 let date=new Date();
 console.log(date);
+console.log(date.getFullYear());
+console.log(date.getTime());

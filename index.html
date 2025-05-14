@@ -4,9 +4,46 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <p>This is a paragraph.</p>
-    <script src="./practise.js"></script>
+    <div id="container">
+        <button id="bg-btn">Change Color</button>
+        <h2 id="count">0</h2>
+        <div style="margin: 20px;">
+            <button id="inc-btn">Increase</button>
+            <button id="dec-btn">Decrease</button>
+        </div>
+        <div>
+            <img id="image" src="./moon.jpg" alt="">
+            <button id="visibility">Hide Image</button>
+        </div>
+        <div style="border: 2px solid black; padding: 20px; margin: 20px;">
+            <p id="para">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae debitis eos perspiciatis quae consequatur pariatur dolore, doloremque veritatis ipsam mollitia. Repellendus nihil delectus ut earum tempore, quisquam possimus quas repellat!</p>
+            <button id="hide-text">Hide Text</button>
+        </div>
+        <h3 id="font">Hover to Change Font Size</h3>
+
+        <div id="form">
+            <form action="" id="text-form">
+                <label for="">Start Typing</label>
+                <input type="text" name="text" id="text-input">
+            </form>
+        </div>
+        <div>
+            <form action="" id="submit-form">
+                <label for="">Username</label>
+                <input type="text" name="" id="name-input">
+                <label for="">Email</label>
+                <input type="email" name="" id="email-input">
+                <input type="submit" name="Submit">
+            </form>
+        </div>
+        <div id="show">
+            
+        </div>
+    </div>
+    
+    <script src="./event_handling.js"></script>
 </body>
 </html>
